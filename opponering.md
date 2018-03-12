@@ -55,8 +55,8 @@ Personen på till vänster opponerar (granskar och ger feedback) till personen t
 ### Grupp 6 ~ 16.30 - 17.50
 | Opponent |  ➜          | Respondent       |
 |---|---                 |---                |
-| Janaina                |➜| Martin/Peter   |
-| Martin/Peter           |➜| Samir          |
+| Janaina                |➜| Anna   |
+| Anna        |➜| Samir          |
 | Samir                  |➜| Cecilia/Joanna |
 | Cecilia/Joanna         |➜| Janaina        |
 
