@@ -25,15 +25,14 @@ Personen på till vänster opponerar (granskar och ger feedback) till personen t
 |---|---              |---               |
 | Nicolas             |➜ | Mohsin       |
 | Mohsin              |➜ | Annelie      |
-| Annelie             |➜ | Martin B     |
-| Martin B            |➜ | Nicolas      |
+| Annelie             |➜ | Nicolas      |
 
 ### Grupp 3 ~ 12.00 - 13.20
 | Opponent | ➜           | Respondent          |
 |---|---                 |---                  |
 | Mattias/Andreas        |➜ | Yoko            |
 | Yoko                   |➜ | Magnus          |
-| Magnus                 |➜ |Dante           |
+| Magnus                 |➜ | Dante           |
 | Dante                  |➜ | Mattias/Andreas |
 
 ### Grupp 4 ~ 13.30 - 14.50
@@ -56,7 +55,7 @@ Personen på till vänster opponerar (granskar och ger feedback) till personen t
 | Opponent |  ➜          | Respondent       |
 |---|---                 |---                |
 | Janaina                |➜| Anna   |
-| Anna        |➜| Samir          |
+| Anna                   |➜| Samir          |
 | Samir                  |➜| Cecilia/Joanna |
 | Cecilia/Joanna         |➜| Janaina        |
 
